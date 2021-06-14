@@ -3,8 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../layout/compose-model-1623654278255.xml" value="0.625" />
+        <entry key="../../../../layout/compose-model-1623656850952.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1623657171445.xml" value="0.625" />
+        <entry key="../../../../layout/compose-model-1623657702822.xml" value="0.8784461152882206" />
+        <entry key="../../../../layout/compose-model-1623658262965.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1623658555412.xml" value="0.55" />
+        <entry key="../../../../layout/compose-model-1623669281871.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1623669461301.xml" value="0.6240601503759399" />
+        <entry key="../../../../layout/compose-model-1623670229624.xml" value="0.6240601503759399" />
         <entry key="..\:/Users/tomku/Desktop/Lunabee/ComposeTest/app/src/main/res/drawable/localisation_icon.xml" value="0.22083333333333333" />
         <entry key="..\:/Users/tomku/Desktop/Lunabee/ComposeTest/app/src/main/res/drawable/sun_icon.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/check_icon.xml" value="0.165" />
       </map>
     </option>
   </component>
